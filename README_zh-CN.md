@@ -6,9 +6,8 @@
 
 本仓库主要用来整理水下场景的数据集，尽可能详细的包含现有开源的水下数据集，如果您发现您知道的开源的水下数据集没有包含在我们的仓库中，并且如果您愿意分享它，您可以提一个issues方便我们将数据集进行添加，或者通过邮箱和我们进行联系：
 
-@xinzhichao xinzhichao@stu.ouc.edu.cn. 
+@辛志超同学 xinzhichao@stu.ouc.edu.cn. 
 
-@liuxiaoyan 
 
 - - -
 - - -
