@@ -10,7 +10,7 @@ This repository is mainly used to organize the datasets of underwater scenes, in
 
 - - -
 - - -
-## 1.Underwater Datasets(no depth)
+## 1.Image Enhancement
 
 **The underwater scene dataset in this part does not contain the depth map corresponding to the image**
 
@@ -87,8 +87,105 @@ This repository is mainly used to organize the datasets of underwater scenes, in
   - Data: [OceanDark dataset](https://sites.google.com/view/oceandark/home) 
   - Paper： [A Contrast-Guided Approach for the Enhancement of Low-Lighting Underwater Images](https://www.mdpi.com/2313-433X/5/10/79) 
   - Dataset introduction:
+
 - - -
-## 2.Underwater Datasets(include depth)
+## 2.Object Detection/Classification
+### A. General
+- **MOUSS data**
+  - Data： [MOUSS](https://www.viametoolkit.org/cvpr-2018-workshop-data-challenge/challenge-data-description/)  
+  - Dataset introduction:
+- **MBARI dataset**
+  - Data： [MBARI](https://www.mbari.org/products/data-repository/)  
+  - Dataset introduction:
+- **HabCam dataset**
+  - Data： [HabCam](https://habcam.whoi.edu/)  
+  - Dataset introduction:
+- **OUC-vision dataset**
+  - Data： [OUC-vision](https://ieeexplore.ieee.org/abstract/document/8019324)  
+  - Dataset introduction:
+- **MARIS project dataset**
+  - Data： [MARIS project](http://rimlab.ce.unipr.it/Maris.html)  
+  - Dataset introduction:
+- **NOAA dataset**
+  - Data： [NOAA](https://marineresearchpartners.com/nmfs_aiasi/DataSets.html)  
+  - Dataset introduction:
+- **Aqualoc dataset**
+  - Data： [NOAA](http://www.lirmm.fr/aqualoc/)  
+  - Paper： [AQUALOC: An Underwater Dataset for Visual-Inertial-Pressure Localization](https://arxiv.org/abs/1910.14532) 
+  - Dataset introduction:
+- **Brackish dataset**
+  - Data： [Brackish](https://www.kaggle.com/aalborguniversity/brackish-dataset/data)  
+  - Paper： [Detection of Marine Animals in a New Underwater Dataset with Varying Visibility](https://www.researchgate.net/publication/333972548_Detection_of_Marine_Animals_in_a_New_Underwater_Dataset_with_Varying_Visibility) 
+  - Dataset introduction:
+- **SUN dataset**
+  - Data： [SUN](http://groups.csail.mit.edu/vision/SUN/)  
+  - Dataset introduction:
+### B. Human-robot cooperation
+- **Diver detection**
+  - Data： [Diver detection](http://irvlab.cs.umn.edu/resources)  
+  - Paper： [Toward a Generic Diver-Following Algorithm: Balancing Robustness and Efficiency in Deep Visual Detection](https://ieeexplore.ieee.org/document/8543168) 
+  - Dataset introduction:
+- **Robot tracking by detection**
+  - Data： [Robot tracking by detection](http://www.cim.mcgill.ca/~mrl/)  
+  - Paper： [Underwater multi-robot convoying using visual tracking by detection](https://ieeexplore.ieee.org/document/8206280) 
+  - Dataset introduction:
+- **CADDY diver pose data**
+  - Data： [CADDY diver pose data](http://caddy-underwater-datasets.ge.issia.cnr.it//CADDY-Underwater-Diver-Pose-Dataset)  
+  - Paper： [CADDY Underwater Stereo-Vision Dataset for Human–Robot Interaction (HRI) in the Context of Diver Activities](https://www.mdpi.com/2077-1312/7/1/16) 
+  - Dataset introduction:
+### C. Coral-reef
+- **UCSD**
+  - Data： [UCSD](http://vision.ucsd.edu/content/moorea-labeled-corals)  
+  - Paper： [Automated annotation of coral reef survey images](https://ieeexplore.ieee.org/abstract/document/6247798) 
+  - Dataset introduction:
+- **Coral-reef Puerto Rico**
+  - Data： [Coral-reef Puerto Rico](https://web.whoi.edu/singh/underwater-imaging/datasets/coral-reef-puerto-rico/)  
+  - Dataset introduction:
+- **Coral-Net**
+  - Data： [Coral-Net](https://coralnet.ucsd.edu/)  
+  - Dataset introduction:
+### D. Fish
+- ** WildFish database**
+  - Data： [ WildFish database](https://github.com/PeiqinZhuang/WildFish)  
+  - Paper： [WildFish: A Large Benchmark for Fish Recognition in the Wild](https://dl.acm.org/citation.cfm?id=3240616) 
+  - Dataset introduction:
+- ** Labeled fishes**
+  - Data： [Labeled fishes](https://swfscdata.nmfs.noaa.gov/labeled-fishes-in-the-wild/)  
+  - Paper： [Automated Detection of Rockfish in Unconstrained Underwater Videos Using Haar Cascades and a New Image Dataset: Labeled Fishes in the Wild](https://ieeexplore.ieee.org/abstract/document/7046815) 
+  - Dataset introduction:
+- ** Fish4Knowledge**
+  - Data： [Fish4Knowledge](http://homepages.inf.ed.ac.uk/rbf/Fish4Knowledge/)  
+  - Dataset introduction:
+- ** Fish database**
+  - Data： [Fish database](http://www.fishdb.co.uk/)  
+  - Dataset introduction:
+- ** AQUALIFEIMAGES database**
+  - Data： [AQUALIFEIMAGES](http://www.aqualifeimages.com/)  
+  - Dataset introduction:
+- ** Rockfish database**
+  - Data： [Rockfish](https://web.whoi.edu/singh/underwater-imaging/datasets/rockfish/)  
+  - Dataset introduction:
+- ** Oceanwide database**
+  - Data： [Oceanwide](http://www.oceanwideimages.com/)  
+  - Dataset introduction:
+- ** Fish recognition**
+  - Data： [Fish recognition](http://groups.inf.ed.ac.uk/f4k/GROUNDTRUTH/RECOG/)  
+  - Paper： [Supporting Ground-Truth annotation of image datasets using clustering](https://homepages.inf.ed.ac.uk/rbf/PAPERS/PID2432553.pdf) 
+  - Dataset introduction:
+- ** Fish detection and tracking**
+  - Data： [Fish detection and tracking](http://www.perceivelab.com/index-dataset.php?name=Fish_Detection)  
+  - Paper： [An innovative web-based collaborative platform
+for video annotation](http://groups.inf.ed.ac.uk/f4k/PAPERS/MTAP-Perla.pdf) 
+  - Dataset introduction:
+- ** Fish trajectory detection**
+  - Data： [Fish detection and tracking](http://groups.inf.ed.ac.uk/f4k/GROUNDTRUTH/BEHAVIOR/)  
+  - Paper： [Detection of Abnormal Fish Trajectories
+Using a Clustering Based Hierarchical
+Classifier](http://www.bmva.org/bmvc/2013/Papers/paper0021/paper0021.pdf) 
+  - Dataset introduction:
+
+- - -
+## 3.Underwater Datasets(include depth)
 **The underwater scene dataset in this part contains the depth map corresponding to the image**
 - **Sea-thru dataset**
   - Sea-thru dataset： [Sea-thru](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/sea_thru/index.html) 
