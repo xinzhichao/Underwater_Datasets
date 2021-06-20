@@ -19,13 +19,13 @@
   - EUVP dataset：  [EUVP dataset](http://irvlab.cs.umn.edu/resources/euvp-dataset)
   - Paper： [Fast Underwater Image Enhancement for Improved Visual Perception](https://ieeexplore.ieee.org/document/9001231)
   - Code：[Github](https://github.com/xahidbuffon/FUnIE-GAN)
-    - 数据集介绍
+  - 数据集介绍：
 
 - **underwater_imagenet dataset**
   - Underwater_imagenet dataset： [Underwater_imagenet](https://drive.google.com/file/d/1LOM-2A1BSLaFjCY2EEK3DA2Lo37rNw-7/view)
   - Paper： [Enhancing Underwater Imagery using Generative Adversarial Networks(UGAN)](https://arxiv.org/abs/1801.04011)
   - Code：[Github](https://github.com/cameronfabbri/Underwater-Color-Correction)
-    - 数据集介绍
+  - 数据集介绍：
 
 
 - **UIEBD dataset**
@@ -95,7 +95,7 @@
   - Sea-thru dataset： [Sea-thru](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/sea_thru/index.html) 
   - Paper： [A Method For Removing Water From Underwater Images](http://csms.haifa.ac.il/profiles/tTreibitz/webfiles/sea-thru_cvpr2019.pdf)
   - Homepage：[Homepage](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/sea_thru/index.html) 
-    - 数据集介绍
+  - 数据集介绍：
 
 - - -
 
