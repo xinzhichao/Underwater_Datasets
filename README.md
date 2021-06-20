@@ -8,7 +8,7 @@ This repository is mainly used to organize the datasets of underwater scenes, in
 
 @xinzhichao xinzhichao@stu.ouc.edu.cn.
 
-@zhengziqiang zhengziqiang1@gmail.com.[Github](https://github.com/zhengziqiang)
+@zhengziqiang zhengziqiang1@gmail.com.  [[Github]](https://github.com/zhengziqiang)
 - - -
 - - -
 ## 1.Image Enhancement
