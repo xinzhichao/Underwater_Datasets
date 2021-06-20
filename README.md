@@ -145,67 +145,67 @@ This repository is mainly used to organize the datasets of underwater scenes, in
   - Data： [Coral-Net](https://coralnet.ucsd.edu/)  
   - Dataset introduction:
 ### D. Fish
-- ** WildFish database**
+- **WildFish database**
   - Data： [ WildFish database](https://github.com/PeiqinZhuang/WildFish)  
   - Paper： [WildFish: A Large Benchmark for Fish Recognition in the Wild](https://dl.acm.org/citation.cfm?id=3240616) 
   - Dataset introduction:
-- ** Labeled fishes**
+- **Labeled fishes**
   - Data： [Labeled fishes](https://swfscdata.nmfs.noaa.gov/labeled-fishes-in-the-wild/)  
   - Paper： [Automated Detection of Rockfish in Unconstrained Underwater Videos Using Haar Cascades and a New Image Dataset: Labeled Fishes in the Wild](https://ieeexplore.ieee.org/abstract/document/7046815) 
   - Dataset introduction:
-- ** Fish4Knowledge**
+- **Fish4Knowledge**
   - Data： [Fish4Knowledge](http://homepages.inf.ed.ac.uk/rbf/Fish4Knowledge/)  
   - Dataset introduction:
-- ** Fish database**
+- **Fish database**
   - Data： [Fish database](http://www.fishdb.co.uk/)  
   - Dataset introduction:
-- ** AQUALIFEIMAGES database**
+- **AQUALIFEIMAGES database**
   - Data： [AQUALIFEIMAGES](http://www.aqualifeimages.com/)  
   - Dataset introduction:
-- ** Rockfish database**
+- **Rockfish database**
   - Data： [Rockfish](https://web.whoi.edu/singh/underwater-imaging/datasets/rockfish/)  
   - Dataset introduction:
-- ** Oceanwide database**
+- **Oceanwide database**
   - Data： [Oceanwide](http://www.oceanwideimages.com/)  
   - Dataset introduction:
-- ** Fish recognition**
+- **Fish recognition**
   - Data： [Fish recognition](http://groups.inf.ed.ac.uk/f4k/GROUNDTRUTH/RECOG/)  
   - Paper： [Supporting Ground-Truth annotation of image datasets using clustering](https://homepages.inf.ed.ac.uk/rbf/PAPERS/PID2432553.pdf) 
   - Dataset introduction:
-- ** Fish detection and tracking**
+- **Fish detection and tracking**
   - Data： [Fish detection and tracking](http://www.perceivelab.com/index-dataset.php?name=Fish_Detection)  
   - Paper： [An innovative web-based collaborative platform
 for video annotation](http://groups.inf.ed.ac.uk/f4k/PAPERS/MTAP-Perla.pdf) 
   - Dataset introduction:
-- ** Fish trajectory detection**
+- **Fish trajectory detection**
   - Data： [Fish detection and tracking](http://groups.inf.ed.ac.uk/f4k/GROUNDTRUTH/BEHAVIOR/)  
   - Paper： [Detection of Abnormal Fish Trajectories
 Using a Clustering Based Hierarchical
 Classifier](http://www.bmva.org/bmvc/2013/Papers/paper0021/paper0021.pdf) 
   - Dataset introduction:
 ### E. Trash and marine debris
-- ** TrashCan**
+- **TrashCan**
   - Data： [TrashCan](https://conservancy.umn.edu/handle/11299/214865)  
   - Paper： [TrashCan: A Semantically-Segmented Dataset towards Visual Detection of Marine Debris](https://arxiv.org/abs/2007.08097) 
   - Dataset introduction:
-- ** Trash-ICRA19**
+- **Trash-ICRA19**
   - Data： [Trash-ICRA19](https://conservancy.umn.edu/handle/11299/214366)  
   - Paper： [Robotic Detection of Marine Litter Using Deep Visual Detection Models](https://ieeexplore.ieee.org/document/8793975) 
   - Dataset introduction:
-- ** Deep-sea debris database**
+- **Deep-sea debris database**
   - Data： [Deep-sea debris database](http://www.godac.jamstec.go.jp/catalog/dsdebris/e/index.html)  
   - Dataset introduction:
-- ** Tiny plastics posing threat to turtles**
+- **Tiny plastics posing threat to turtles**
   - Data： [Tiny plastics posing threat to turtles](https://www.dropbox.com/sh/53jzl8w8smydrdb/AAC_oST5MGxJ2VL-rcoTpxhXa)  
   - Dataset introduction:
 - - -
 ## 3. Acoustic Data
-- ** Five-element acoustic dataset**
+- **Five-element acoustic dataset**
   - Data： [Five-element acoustic dataset](http://users.ece.utexas.edu/~bevans/projects/underwater/datasets/)  
   - Paper： [University of Texas Applied Research Laboratory Nov. 2009
 Five-Element Acoustic Underwater Dataset](http://users.ece.utexas.edu/~bevans/projects/underwater/datasets/ARLUT_01_doc_01.pdf) 
   - Dataset introduction:
-- ** DIDSON dataset**
+- **DIDSON dataset**
   - Data： [DIDSON dataset1](https://osf.io/sxek6/)  [DIDSON dataset2](https://osf.io/xy32d/)  [DIDSON dataset3](https://figshare.com/collections/An_Underwater_Observation_Dataset_for_Fish_Classification_and_Fishery_Ecology/4039202)
   - Paper： [An underwater observation dataset for fish classification and fishery assessment](https://www.nature.com/articles/sdata2018190) 
   - Dataset introduction:
