@@ -183,9 +183,86 @@ for video annotation](http://groups.inf.ed.ac.uk/f4k/PAPERS/MTAP-Perla.pdf)
 Using a Clustering Based Hierarchical
 Classifier](http://www.bmva.org/bmvc/2013/Papers/paper0021/paper0021.pdf) 
   - Dataset introduction:
-
+### E. Trash and marine debris
+- ** TrashCan**
+  - Data： [TrashCan](https://conservancy.umn.edu/handle/11299/214865)  
+  - Paper： [TrashCan: A Semantically-Segmented Dataset towards Visual Detection of Marine Debris](https://arxiv.org/abs/2007.08097) 
+  - Dataset introduction:
+- ** Trash-ICRA19**
+  - Data： [Trash-ICRA19](https://conservancy.umn.edu/handle/11299/214366)  
+  - Paper： [Robotic Detection of Marine Litter Using Deep Visual Detection Models](https://ieeexplore.ieee.org/document/8793975) 
+  - Dataset introduction:
+- ** Deep-sea debris database**
+  - Data： [Deep-sea debris database](http://www.godac.jamstec.go.jp/catalog/dsdebris/e/index.html)  
+  - Dataset introduction:
+- ** Tiny plastics posing threat to turtles**
+  - Data： [Tiny plastics posing threat to turtles](https://www.dropbox.com/sh/53jzl8w8smydrdb/AAC_oST5MGxJ2VL-rcoTpxhXa)  
+  - Dataset introduction:
 - - -
-## 3.Underwater Datasets(include depth)
+## 3. Acoustic Data
+- ** Five-element acoustic dataset**
+  - Data： [Five-element acoustic dataset](http://users.ece.utexas.edu/~bevans/projects/underwater/datasets/)  
+  - Paper： [University of Texas Applied Research Laboratory Nov. 2009
+Five-Element Acoustic Underwater Dataset](http://users.ece.utexas.edu/~bevans/projects/underwater/datasets/ARLUT_01_doc_01.pdf) 
+  - Dataset introduction:
+- ** DIDSON dataset**
+  - Data： [DIDSON dataset1](https://osf.io/sxek6/)  [DIDSON dataset2](https://osf.io/xy32d/)  [DIDSON dataset3](https://figshare.com/collections/An_Underwater_Observation_Dataset_for_Fish_Classification_and_Fishery_Ecology/4039202)
+  - Paper： [An underwater observation dataset for fish classification and fishery assessment](https://www.nature.com/articles/sdata2018190) 
+  - Dataset introduction:
+- **Spectrogram Analysis**
+  - Data： [Spectrogram Analysis](https://sites.google.com/site/tomalampert/data-sets?authuser=0)  
+  - Paper： [On the detection of tracks in spectrogram images](https://www.sciencedirect.com/science/article/pii/S0031320312004712) 
+  - Dataset introduction:
+- **Caves sonar and vision data**
+  - Data： [Caves sonar and vision data](https://cirs.udg.edu/caves-dataset/)  
+  - Paper： [Underwater caves sonar data se](https://journals.sagepub.com/doi/pdf/10.1177/0278364917732838) 
+  - Dataset introduction:
+- - -
+## 4. Stereo Data
+- **Tasmania coral point**
+  - Data： [Tasmania coral point](http://marine.acfr.usyd.edu.au/datasets/index.html)  
+  - Paper： [Towards autonomous habitat classification using Gaussian Mixture Models](https://ieeexplore.ieee.org/abstract/document/5652480) 
+  - Dataset introduction:
+- **Stereo from Flicker**
+  - Data： [Stereo from Flicker](http://webee.technion.ac.il/~yoav/research/flicker.html)  
+  - Paper： [3Deflicker from motion](https://ieeexplore.ieee.org/abstract/document/6528294) 
+  - Dataset introduction:
+- **CADDY stereo data**
+  - Data： [CADDY stereo data](http://caddy-underwater-datasets.ge.issia.cnr.it/)  
+  - Paper： [CADDY Underwater Stereo-Vision Dataset for Human–Robot Interaction (HRI) in the Context of Diver Activities](https://www.mdpi.com/2077-1312/7/1/16) 
+  - Dataset introduction:
+- **HIMB data for UWStereoNet**
+  - Data： [HIMB data for UWStereoNet](https://github.com/kskin/data)  
+  - Paper： [UWStereoNet: Unsupervised Learning for Depth Estimation and Color Correction of Underwater Stereo Imagery](https://ieeexplore.ieee.org/abstract/document/8794272) 
+  - Dataset introduction:
+- **SQUID dataset**
+  - Data： [SQUID dataset](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/ambient_forwardlooking/index.html)  
+  - Paper： [Underwater Single Image Color Restoration Using Haze-Lines and a New Quantitative Dataset](https://arxiv.org/abs/1811.01343) 
+  - Dataset introduction:
+- - -
+## 5. Image Segmentation
+- **SUIM**
+  - Data： [SUIM](http://irvlab.cs.umn.edu/resources/suim-dataset)  
+  - Paper： [Semantic Segmentation of Underwater Imagery: Dataset and Benchmark](https://arxiv.org/pdf/2004.01241.pdf) 
+  - Code: [Github](https://github.com/xahidbuffon/SUIM-Net)
+  - Dataset introduction:
+- **Coral-Net**
+  - Data： [Coral-Net](https://coralnet.ucsd.edu/)  
+  - Paper： [CoralSeg: Learning coral segmentation from sparse annotations](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21915) 
+  - Code: [Github](https://github.com/Shathe/CoralSeg)
+  - Dataset introduction:
+- **Eilat dataset**
+  - Data： [Eilat dataset](https://sites.google.com/a/unizar.es/semanticseg/)  
+  - Paper： [Improving Automated Annotation
+of Benthic Survey Images Using
+Wide-band Fluorescence](https://www.nature.com/articles/srep23166.pdf) 
+  - Dataset introduction:
+- **Change detection**
+  - Data： [Change detection](http://underwaterchangedetection.eu/index.html)  
+  - Paper： [Dataset on underwater change detection](https://ieeexplore.ieee.org/document/7761129) 
+  - Dataset introduction:
+- - -
+## 6.Underwater Datasets(include depth)
 **The underwater scene dataset in this part contains the depth map corresponding to the image**
 - **Sea-thru dataset**
   - Sea-thru dataset： [Sea-thru](http://csms.haifa.ac.il/profiles/tTreibitz/datasets/sea_thru/index.html) 
