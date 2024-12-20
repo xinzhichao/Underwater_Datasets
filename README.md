@@ -145,6 +145,9 @@ This repository is mainly used to organize the datasets of underwater scenes, in
 - **Coral-Net**
   - Data： [Coral-Net](https://coralnet.ucsd.edu/)  
   - Dataset introduction:
+- **CoralMask**
+  - Data： [CoralMask](https://coralscop.hkustvgd.com/)  
+  - Dataset introduction: The first large-scale coral reef dataset with dense coral reef masks: a new dataset with 41,297 densely labeled coral images and 330,144 coral masks
 ### D. Fish
 - **WildFish database**
   - Data： [ WildFish database](https://github.com/PeiqinZhuang/WildFish)  
